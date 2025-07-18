@@ -1,7 +1,7 @@
 resources:
   - ../../base/istory-app
 
-namespace: istory-dev
+namespace: istory-prod
 
 patches:
   - path: patch-lb-annotations.yml
